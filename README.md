@@ -1,7 +1,7 @@
 
 
 
-![Screenshot de la pagina](https://github.com/IvonEsc/Encriptador/blob/main/img/portada.png?raw=true)
+![Screenshot de la pagina](https://github.com/GAVG8612/Encriptador/blob/main/img/portada.png?raw=true)
 
 
 #  Encriptador
